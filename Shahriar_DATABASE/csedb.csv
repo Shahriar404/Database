@@ -1,0 +1,6 @@
+roll;name;gender;adviser_id;phone_no;email;present_address;blood_group;father;mother;college;home_district
+1507101;Fahim;Male;2;1521101112;z@gmail.com;FHH;A+;k;a;NMRC;Dhaka
+1507102;Shitu;Female;3;1521101113;y@gmail.com;BRH;B+;l;b;AHC;Bogra
+1507103;Anik;Male;1;1521101114;x@gmail.com;AEH;B-;m;c;NDC;Naogaon
+1507104;Kanon;Male;1;1521101115;w@gmail.com;AEH;O+;n;d;NGDC;Natore
+1507105;Indronil;Male;4;1521101116;v@gmail.com;FHH;B+;o;e;JCC;Khulna
